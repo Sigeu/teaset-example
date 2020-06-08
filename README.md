@@ -80,7 +80,7 @@ container => () => <Provider store={store}><TopView>{container}</TopView></Provi
 ```
 
 # 文档
-请进入原作者Github阅读文档 [teaset](https://github.com/rilyu/teaset/docs/cn/README.md)
+请进入原作者Github阅读文档 [teaset](https://github.com/rilyu/teaset/blob/master/docs/cn/README.md)
 
 # License
 MIT
